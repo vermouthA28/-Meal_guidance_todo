@@ -45,9 +45,13 @@ todoリストを作ることでお客様にして欲しいことを優先順で�
 
 
 開発環境
+
 ・　OS　：　Mac
+
 ・　言語　：　HTML, CSS, JavaScript, Ruby
+
 ・　フレームワーク　：　RubyonRails
+
 ・　IDE　：　Cloud9 
 
 
